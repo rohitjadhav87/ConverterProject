@@ -1,3 +1,4 @@
 # excluded folders
 bin/
 obj/
+testresults/
